@@ -30,7 +30,7 @@
       "generateindexrules": true,
       "enabledartnullsafety": true
     },
-    "appsync": {
+    "appsync": { 
       "generategraphqlpermissions": true
     },
     "latestregionsupport": {
