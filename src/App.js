@@ -60,7 +60,7 @@ function App() {
       <h1>My Notes App</h1>
       <input
         onChange={e => setFormData({ ...formData, 'name': e.target.value})}
-        placeholder="Note name abc"
+        placeholder="Note name def"
         value={formData.name}
       />
       <input
