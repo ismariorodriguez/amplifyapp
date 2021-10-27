@@ -11,7 +11,7 @@
     },
     "frontend-ios": {
       "enablexcodeintegration": true
-    }, 
+    },
     "auth": {
       "enablecaseinsensitivity": true,
       "useinclusiveterminology": true,
@@ -30,7 +30,7 @@
       "generateindexrules": true,
       "enabledartnullsafety": true
     },
-    "appsync": { 
+    "appsync": {
       "generategraphqlpermissions": true
     },
     "latestregionsupport": {
