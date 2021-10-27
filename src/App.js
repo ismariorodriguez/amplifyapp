@@ -21,7 +21,7 @@ function App() {
     const file = e.target.files[0];
     setFormData({ ...formData, image: file.name });
     await Storage.put(file.name, file);
-    fetchNotes();
+    fetchNotes(); 
   }
 
   async function fetchNotes() {
