@@ -1,5 +1,5 @@
 {
-  "staging": {
+  "staging": { 
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyb0da10ed23ce4-staging-12612-authRole",
       "UnauthRoleArn": "arn:aws:iam::482587773246:role/amplify-amplifyb0da10ed23ce4-staging-12612-unauthRole",
