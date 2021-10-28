@@ -57,7 +57,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>MRod curde app</h1>
+      <h1>MRod crud app</h1>
       <input
         onChange={e => setFormData({ ...formData, 'name': e.target.value})}
         placeholder="Note name def"
